@@ -1,0 +1,14 @@
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\bin\Debug\RandoCharacter.exe.config
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\bin\Debug\RandoCharacter.exe
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\bin\Debug\RandoCharacter.pdb
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\obj\Debug\RandoCharacter.csprojAssemblyReference.cache
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\obj\Debug\RandoCharacter.Form1.resources
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\obj\Debug\RandoCharacter.Properties.Resources.resources
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\obj\Debug\RandoCharacter.csproj.GenerateResource.cache
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\obj\Debug\RandoCharacter.csproj.CoreCompileInputs.cache
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\obj\Debug\RandoCharacter.exe
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\obj\Debug\RandoCharacter.pdb
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\bin\Debug\RandoCharacter.exe.manifest
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\bin\Debug\RandoCharacter.application
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\obj\Debug\RandoCharacter.exe.manifest
+C:\Users\alext\source\repos\RandoCharacter\RandoCharacter\obj\Debug\RandoCharacter.application
