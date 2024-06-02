@@ -9,3 +9,4 @@ Built within Visual Studio Code.
 ![image](https://github.com/alextawes19/Random-Character-Generator/assets/61715901/614da739-689e-4d55-961f-adcf60ce59fa)
 (Art by me)
 
+Formula for character rating: *((numAbilities + numStrengths) / numWeaknesses)*
